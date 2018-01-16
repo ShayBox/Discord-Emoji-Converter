@@ -1,0 +1,11 @@
+{
+  "extends": "aqua",
+  "rules": {
+    "id-length": ["off"],
+    "max-len": ["off"],
+    "no-console": ["off"],
+    "no-inline-comments": ["off"],
+    "no-shadow": ["off"],
+    "quotes": ["error", "backtick"]
+  }
+}
