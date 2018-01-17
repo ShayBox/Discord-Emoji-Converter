@@ -14,5 +14,19 @@
     "name": "Shayne Hartofrd (ShayBox)",
     "email": "ShayneEHartford@Gmail.Com"
   },
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShayBox/Discord-Emoji-Converter.git"
+  },
+  "license": "MIT",
+  "eslintConfig": {
+    "extends": "aqua",
+    "rules": {
+      "id-length": "off",
+      "max-len": "off",
+      "no-console": "off",
+      "no-inline-comments": "off",
+      "no-shadow": "off"
+    }
+  }
 }
